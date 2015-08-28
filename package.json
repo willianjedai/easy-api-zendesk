@@ -1,0 +1,22 @@
+{
+  "name": "easy-api-zendesk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianjedai/easy-api-zendesk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianjedai/easy-api-zendesk/issues"
+  },
+  "homepage": "https://github.com/willianjedai/easy-api-zendesk#readme",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
