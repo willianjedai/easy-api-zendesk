@@ -1,0 +1,5 @@
+{
+  "user": "user@doamin.com",
+  "apitoken": "APITOKEN",
+  "api_path": "https://yourdomain.zendesk.com/api/v2/"
+}
